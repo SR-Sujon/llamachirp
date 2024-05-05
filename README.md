@@ -1,4 +1,4 @@
-# PDF Reading with RAG Implementation and Ollama Models
+# LlamaChirp: Chat with PDF using RAG Implementation and Ollama Models
 This repository contains a Python project that leverages RAG (Retrieval-Augmented Generation) implementation along with Ollama models for reading PDF documents and enabling conversational interactions. The system is designed to analyze, correlate, and extract relevant information from the provided PDF context while facilitating user inquiries through conversational interfaces.
 
 ## Features
