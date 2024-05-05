@@ -10,12 +10,12 @@ This repository contains a Python project that leverages RAG (Retrieval-Augmente
 - Source Tracking: Maintains metadata about the source documents to provide context and source references for generated responses.
 
 ## Installation
-- To install the necessary dependencies, run from terminal:
-- ```pip install -r requirements.txt` ```
-- To install ollama models, run:
-- ``` ollama pull llama3``` 
-- ``` ollama pull llama2```
-- ``` ollama pull [other model names]```
+* To install the necessary dependencies, run from terminal:
+    - ```pip install -r requirements.txt` ```
+* To install ollama models, run:
+    - ``` ollama pull llama3``` 
+    - ``` ollama pull llama2```
+    - ``` ollama pull [other model names]```
 
 ## Deploy
 Run this script in the terminal:
